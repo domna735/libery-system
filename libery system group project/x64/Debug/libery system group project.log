@@ -1,0 +1,3 @@
+﻿  Library.cpp
+C:\Users\domna735\source\repos\EX_1\libery system group project\Library.cpp(708,77): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  libery system group project.vcxproj -> C:\Users\domna735\source\repos\EX_1\libery system group project\x64\Debug\libery system group project.exe
